@@ -5,7 +5,7 @@ Programming Internship
 First year CSE student
 
 
-## 📌 Introduction
+##  Introduction
 This is my second task for the internship, and I coded it myself in Python.  
 It’s a very simple calculator where you give two numbers and select an operation,
 and it will instantly give you the answer.  
@@ -13,7 +13,7 @@ I made this to practice Python basics and make a small useful tool.
 
 ---
 
-## ✨ Features
+## Features
 - Can do **addition**, **subtraction**, **multiplication**, and **division**.
 - Works for both whole numbers and decimal numbers.
 - Shows result quickly without any delay.
@@ -21,7 +21,7 @@ I made this to practice Python basics and make a small useful tool.
 
 ---
 
-## 🔍 How It Works
+##  How It Works
 1. The program asks for the first number.
 2. Then it asks for the second number.
 3. Next, it asks you to choose one operation from (+, -, *, /).
@@ -30,12 +30,12 @@ I made this to practice Python basics and make a small useful tool.
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 - Python 3 installed on your system.
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Save the code as **`task2_calculator.py`**.
 2. Open Command Prompt or Terminal.
 3. Go to the folder where the file is saved.
@@ -58,4 +58,5 @@ Result: 21.0
 ## Made By
 Adarsh Pinjari 
 1st year CSE Student
+
 Codsoft Python Programming Internship
