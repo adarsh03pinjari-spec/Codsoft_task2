@@ -50,9 +50,14 @@ Select operation:
 2. Subtraction (-)
 3. Multiplication (*)
 4. Division (/)
+
+
 Enter your choice (1/2/3/4): 2
+
 Enter first number: 56
+
 Enter second number: 35
+
 Result: 21.0
 
 ## Made By
@@ -60,3 +65,4 @@ Adarsh Pinjari
 1st year CSE Student
 
 Codsoft Python Programming Internship
+
